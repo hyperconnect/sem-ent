@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+faiss
+tqdm
+requests
+pytest
+## Optional
+# torch
+# transformers
