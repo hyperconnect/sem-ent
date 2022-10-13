@@ -2,7 +2,7 @@
 
 ## Paper link
 
-- Will be uploaded soon!
+- https://arxiv.org/abs/2210.05725
 
 ## Overview
 
