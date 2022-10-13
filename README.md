@@ -1,4 +1,4 @@
-# Measuring and Improving Semantic Diversity of Dialogue Generation (ENMLP 2022)
+# Measuring and Improving Semantic Diversity of Dialogue Generation (ENMLP 2022 Findings)
 
 ## Paper link
 
