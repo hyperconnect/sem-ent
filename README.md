@@ -47,4 +47,13 @@ bash scripts/eval_dailydialog.sh [model_filename] [report_filename] 32
 
 ## Citation
 
-- TBD
+Please cite the following if you make use of this codebase.
+
+```
+@article{han2022measuring,
+  title={Measuring and Improving Semantic Diversity of Dialogue Generation},
+  author={Han, Seungju and Kim, Beomsu and Chang, Buru},
+  journal={arXiv preprint arXiv:2210.05725},
+  year={2022}
+}
+```
